@@ -1,2 +1,2 @@
-ssysucre.githunb.io
+ssysucre.github.io
 ===================
